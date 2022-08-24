@@ -108,8 +108,7 @@ button:hover {
   }
 
   .container {
-    /* 600px */
-    width: 37.5rem;
+    width: 37rem;
   }
 
   .pic, .info {
